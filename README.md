@@ -28,7 +28,11 @@ took me a few tries to get the routing right but it works now
 
 made in fusion360. fits everything together with M3 screws and heatset inserts
 
-![CAD Model](assets/cad.png)
+![CAD Model](assets/cad-body.png)
+
+along with the top:
+
+![CAD-Top](assets/cad-top.png)
 
 the switches poke through the top plate and the oled sits in a cutout. pretty clean imo
 
