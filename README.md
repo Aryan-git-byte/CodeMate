@@ -2,7 +2,7 @@
 
 hiii! this is my hackpad submission. built a 3x3 macropad to speed up my coding workflow
 
-![CodeMate Overall](assets\codemateoverall.jpeg)
+![CodeMate Overall](assets/codemateoverall.jpeg)
 
 ## what it does
 
@@ -18,7 +18,7 @@ heres what the electronics look like:
 
 | Schematic | PCB |
 |-----------|-----|
-| ![Schematic](assets\schematic.png) | ![PCB](assets/pcb.jpeg) |
+| ![Schematic](assets/schematic.png) | ![PCB](assets/pcb.jpeg) |
 
 took me a few tries to get the routing right but it works now
 
