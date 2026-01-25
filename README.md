@@ -92,3 +92,6 @@ what you need to build this:
 ## notes
 
 this was fun to make! spent way too much time tweaking the firmware but learned a lot about kmk in the process. 
+
+##TODO: add resource download hyperlink beneath images
+
