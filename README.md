@@ -85,3 +85,12 @@ this was fun to make! spent way too much time tweaking the firmware but learned 
 switched from KMK to Arduino because i wanted proper keyboard+consumer HID support and the encoder was being weird in KMK. plus now i can do the breathing LED effect which looks way cooler than static colors
 
 GG
+
+# this is the prototype:
+
+![image](assets/codemate.png)
+
+
+## and when buttons are pressed it looks like:
+![image](assets/led-on-codemate.png)
+![image](assets/led-on-codemate2.png)
