@@ -37,20 +37,20 @@ rewrote it in Arduino because i wanted better HID support. NO LAYERS anymore, ju
 
 **The Layout:**
 ```
-Comment      | Uncomment    | Block Comment
-Run (F5)     | Debug (F5)   | Stop (F5)
-git status   | git commit   | git push
+Comment      | Format Code    | Duplicate Line
+Run (F5)     | Terminal       | Close Tab
+git status   | git commit     | git push
 ```
 
 Encoder: Volume up/down (stays the same always)
 
 ### what each key does
 - **Key 0:** Toggle comment (Ctrl+/)
-- **Key 1:** Uncomment line (Ctrl+Shift+/)
-- **Key 2:** Block comment (Ctrl+Shift+A)
+- **Key 1:** Format code (Shift+Alt+F)
+- **Key 2:** Duplicate line (Shift+Alt+Down)
 - **Key 3:** Run code (F5)
-- **Key 4:** Start debugging (Shift+F5)
-- **Key 5:** Stop debugging (Shift+F5)
+- **Key 4:** Toggle terminal (Ctrl+`)
+- **Key 5:** Close tab (Ctrl+W)
 - **Key 6:** Opens terminal + runs `git status`
 - **Key 7:** Opens terminal + types `git commit -m ""` with cursor inside quotes
 - **Key 8:** Opens terminal + runs `git push`
